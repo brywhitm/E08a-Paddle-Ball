@@ -1,4 +1,4 @@
-# E08a-Godot
+# E08a-Paddle-Ball
 The first Godot exercise for BL-MSCH-C220. As usual, Fork and Clone this repository.
 
 Here are instructions for your first experience with the Godot engine:
