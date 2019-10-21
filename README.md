@@ -1,11 +1,10 @@
 # E08a-Godot
-The first Godot exercise for BL-MSCH-C220.
+The first Godot exercise for BL-MSCH-C220. As usual, Fork and Clone this repository.
 
 Here are instructions for your first experience with the Godot engine:
 
-Open Godot, and select the project.
-
-
+ * Open Godot. In the project viewer, select Import.
+ * Click Browse, and find the folder that contains your Cloned Project. Select the project.godot file and Open it. Import & Edit.
  * Change the viewport (at the top of the editor window) to 2D
  * In the Viewport Toolbar, select View > Show Grid
  * In the Viewport Toolbar, select the three vertical dots. Make sure Snap to grid is checked
@@ -69,4 +68,5 @@ Open Godot, and select the project.
       position = Vector2(mouse_x, position.y)
     ```
  * Save the script and run the scene
- * If you have a paddle that follows the mouse, and a ball that bounces off the walls and the mouse, you have completed the exercise. Save the Scene, commit it to Github, edit your LICENSE and README.md, and turn in the URL of your repository to Canvas.
+ 
+ If you have a paddle that follows the mouse, and a ball that bounces off the walls and the mouse, you have completed the exercise. Save the Scene, commit it to Github, edit your LICENSE and README.md, and turn in the URL of your repository to Canvas.
